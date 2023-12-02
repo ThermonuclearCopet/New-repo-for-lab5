@@ -52,7 +52,7 @@ class Weather:
         return self.__weather_type
 
     def get_weather_country(self):
-        """get Vietnam"""
+        """get weather entry country"""
         return self.__country
 
     def __str__(self):
